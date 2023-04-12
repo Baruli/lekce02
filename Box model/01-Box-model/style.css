@@ -3,3 +3,15 @@ html { box-sizing: border-box; }
 *, ::after, ::before { box-sizing: inherit; }
 
 
+h1 { 
+    padding: 10px 30px 10px;
+    border: 3px double #808080;
+    text-align: center;
+    width: 30%;
+    margin: 50px auto;
+}
+
+img {
+    border: 1px solid #000;
+    border-radius: 15%;
+}
